@@ -1,6 +1,6 @@
 # 💫 About Me
 
-<img width="1584" height="396" alt="Hi! (2)" src="https://github.com/user-attachments/assets/28496cf4-17f7-4f94-934f-a9e5d1140ce8" />
+<img width="1584" height="396" alt="Hi! (4)" src="https://github.com/user-attachments/assets/ca316b0a-358b-4e3e-b3b3-895ab2700345" />
 
 Hi there, I'm Riko! A mechanical engineering student at University of Indonesia. I like learning new things, mixing things up, especially if its mechanical and electrical, and also programming! Never gonna stop learning, so i will see you in my journey!
 

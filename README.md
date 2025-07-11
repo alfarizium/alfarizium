@@ -1,4 +1,4 @@
-# 💫 About Me
+# 💫 Heya!
 
 <img width="1584" height="396" alt="Hi! (4)" src="https://github.com/user-attachments/assets/ca316b0a-358b-4e3e-b3b3-895ab2700345" />
 

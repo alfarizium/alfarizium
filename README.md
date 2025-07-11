@@ -17,7 +17,7 @@ Hi there! I am a mechanical engineering student at University of Indonesia. I li
   <img src="https://nirzak-streak-stats.vercel.app/?user=alfarizium&theme=radical&hide_border=false" width="418" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfarizium&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfarizium&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="380" />
 </p>
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=alfarizium&color=f9438a" />
